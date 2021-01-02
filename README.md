@@ -4,9 +4,10 @@
 
 網路分飾品牌包含Max&amp;Co., Club Monaco, Joseph, Maje, iCB, ToryBurch六家品牌。
 
-首先，我們將會從網路爬取所需的資料。詳見Webscraping_FashionGuide.ipynb檔案。
+首先，我從網路爬取所需的資料。詳見Webscraping_FashionGuide.ipynb檔案。
 
 再來，我將前處理所爬取的資料，包含濾除停用字(stopwords)、斷詞等等，最後根據詞頻繪製文字雲。此步驟詳見NLP_FashionGuide.ipynb檔案。
+
 
 This project focuses on knowing our customers through an analysis on online reviews of multiple brands.
 
